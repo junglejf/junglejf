@@ -1,3 +1,5 @@
+<!--START_SECTION:waka-->
+
 <h1 align="center">Hi 👋, I'm Felipe Chagas</h1>
 <h3 align="center">At my last year of Physics Course i discovered my passion for programing.After my degree in Physics i got a degree in Computer Science at Universidade Federal Fluminense. Now i'm studying Full-Stack Developer at Trybe.</h3>
 
@@ -27,3 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junglejf&" alt="junglejf" /></p>
 
+<!--END_SECTION:waka-->
