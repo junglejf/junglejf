@@ -1,32 +1,76 @@
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
-<h1 align="center">Hi 👋, I'm Felipe Chagas</h1>
-<h3 align="center">At my last year of Physics Course i discovered my passion for programing.After my degree in Physics i got a degree in Computer Science at Universidade Federal Fluminense. Now i'm studying Full-Stack Developer at Trybe.</h3>
+**🐱 My GitHub Data** 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=junglejf&label=Profile%20views&color=0e75b6&style=flat" alt="junglejf" /> </p>
+> 🏆 109 Contributions in the Year 2021
+ > 
+> 📦 152.2 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 48 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm a Night 🦉** 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junglejf" alt="junglejf" /></a> </p>
+```text
+🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌆 Daytime    15 commits     █████████░░░░░░░░░░░░░░░░   39.47% 
+🌃 Evening    12 commits     ████████░░░░░░░░░░░░░░░░░   31.58% 
+🌙 Night      11 commits     ███████░░░░░░░░░░░░░░░░░░   28.95%
 
-- 🌱 I’m currently learning **REACT & SQL & nodeJS**
+```
+📅 **I'm Most Productive on Tuesday** 
 
-- 👨‍💻 All of my projects are available at [https://github.com/junglejf](https://github.com/junglejf)
+```text
+Monday       6 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
+Tuesday      9 commits      ██████░░░░░░░░░░░░░░░░░░░   23.68% 
+Wednesday    2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
+Thursday     2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
+Friday       8 commits      █████░░░░░░░░░░░░░░░░░░░░   21.05% 
+Saturday     4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+Sunday       7 commits      ████░░░░░░░░░░░░░░░░░░░░░   18.42%
 
-- 📫 How to reach me **junglejf@gmail.com**
+```
 
-- ⚡ Fun fact **Besides programing, i like to travel and dance.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jorge-felipe-campos-chagas-352198118/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jorge-felipe-campos-chagas-352198118/" height="30" width="40" /></a>
-</p>
+📊 **This Week I Spent My Time On** 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+```text
+⌚︎ Time Zone: America/Sao_Paulo
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=junglejf&show_icons=true&locale=en&layout=compact" alt="junglejf" /></p>
+💬 Programming Languages: 
+No Activity Tracked This Week
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junglejf&show_icons=true&locale=en" alt="junglejf" /></p>
+🔥 Editors: 
+No Activity Tracked This Week
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junglejf&" alt="junglejf" /></p>
+🐱‍💻 Projects: 
+No Activity Tracked This Week
 
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   13 repos            ███████████░░░░░░░░░░░░░░   44.83% 
+C                        4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/junglejf/junglejf/main/charts/bar_graph.png) 
+
+
+ Last Updated on 03/11/2021
 <!--END_SECTION:waka-->
