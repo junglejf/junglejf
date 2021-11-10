@@ -3,7 +3,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 109 Contributions in the Year 2021
+> 🏆 108 Contributions in the Year 2021
  > 
 > 📦 152.3 kB Used in GitHub's Storage 
  > 
@@ -72,5 +72,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/junglejf/junglejf/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2021
+ Last Updated on 10/11/2021
 <!--END_SECTION:waka-->
