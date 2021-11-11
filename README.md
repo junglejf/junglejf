@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
 **🐱 My GitHub Data** 
 
@@ -72,5 +72,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/junglejf/junglejf/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/11/2021
+ Last Updated on 11/11/2021
 <!--END_SECTION:waka-->
