@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -74,5 +74,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/junglejf/junglejf/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/05/2022 18:47:33 UTC
+ Last Updated on 12/05/2022 18:48:51 UTC
 <!--END_SECTION:waka-->
