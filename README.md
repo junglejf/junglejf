@@ -15,48 +15,6 @@
  > 
 > 🔑 0 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    14 commits     ███████████░░░░░░░░░░░░░░   46.67% 
-🌃 Evening    5 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-🌙 Night      11 commits     █████████░░░░░░░░░░░░░░░░   36.67%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       6 commits      █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Tuesday      2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-Wednesday    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33% 
-Thursday     2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-Friday       8 commits      ██████░░░░░░░░░░░░░░░░░░░   26.67% 
-Saturday     4 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-Sunday       7 commits      █████░░░░░░░░░░░░░░░░░░░░   23.33%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -74,5 +32,5 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/junglejf/junglejf/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 18:45:38 UTC
+ Last Updated on 04/09/2022 18:45:18 UTC
 <!--END_SECTION:waka-->
