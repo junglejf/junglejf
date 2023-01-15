@@ -86,8 +86,6 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/junglejf/junglejf/main/charts/bar_graph.png) 
-
 
  Last Updated on 02/11/2022 18:47:12 UTC
 <!--END_SECTION:waka-->
